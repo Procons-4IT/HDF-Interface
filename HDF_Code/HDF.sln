@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HDF", "HDF\HDF.vbproj", "{A240F536-D2D5-431C-86C2-581C6AD2FED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDF_Service", "HDF_Service\HDF_Service.csproj", "{8E02AC27-0F6E-47C4-BCE5-7939ED6B8EB7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HDF_SetUp", "HDF_SetUp\HDF_SetUp.vdproj", "{EFDF205B-EDC3-4E32-93C8-82EA54D422DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A240F536-D2D5-431C-86C2-581C6AD2FED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A240F536-D2D5-431C-86C2-581C6AD2FED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A240F536-D2D5-431C-86C2-581C6AD2FED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A240F536-D2D5-431C-86C2-581C6AD2FED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E02AC27-0F6E-47C4-BCE5-7939ED6B8EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E02AC27-0F6E-47C4-BCE5-7939ED6B8EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E02AC27-0F6E-47C4-BCE5-7939ED6B8EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E02AC27-0F6E-47C4-BCE5-7939ED6B8EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFDF205B-EDC3-4E32-93C8-82EA54D422DD}.Debug|Any CPU.ActiveCfg = Debug
+		{EFDF205B-EDC3-4E32-93C8-82EA54D422DD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+<Application>
+  <Menus>
+    <action type="add">
+      <Menu Checked="0" Enabled="1" FatherUID="43520" Image="" Position="14" String="HDF Add On"
+				Type="2" UniqueID="mnu_S301"></Menu>
+
+      <Menu Checked="0" Enabled="1" FatherUID="mnu_S301" Image="" Position="0" String="Settings"
+      Type="1" UniqueID="mnu_S302"></Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="mnu_S301" Image="" Position="1" String="OutBound"
+      Type="1" UniqueID="mnu_S303"></Menu>
+   
+    </action>
+  </Menus>
+</Application>

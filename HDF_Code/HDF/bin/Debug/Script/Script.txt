@@ -1,0 +1,159 @@
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[APCreditMemo]') AND type in (N'P', N'PC'))
+DROP PROCEDURE [APCreditMemo]
+
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[GR]') AND type in (N'P', N'PC'))
+DROP PROCEDURE [GR]
+
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[GRPO]') AND type in (N'P', N'PC'))
+DROP PROCEDURE [GRPO]
+
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[Inventory]') AND type in (N'P', N'PC'))
+DROP PROCEDURE [Inventory]
+
+
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[Inventory]') AND type in (N'P', N'PC'))
+BEGIN
+EXEC dbo.sp_executesql @statement = N'Create PROCEDURE [Inventory] 
+    @DocEntry int
+AS    
+BEGIN
+	 
+    SET NOCOUNT ON;
+    
+	Select ''Inventory'' As Type,T1.DocEntry   --, T1.DocNum, CONVERT(VARCHAR(8),T1.DocDate,112) As ''DocDate'', 
+	From OIQR T1 
+	Where T1.DocEntry =@DocEntry
+
+	Select T1.DocEntry From OIQR T1 
+	Where T1.DocEntry = @DocEntry
+
+	Select Distinct T1.DocEntry,T2.ItemCode, T2.ItemName AS ''Dscription'', T2.InvntryUom  As ''unitMsr'', Convert(Decimal(18,2),T2.CountQty) As ''Quantity'', T2.WhsCode 
+	,(Convert(VarChar,T2.ItemCode)+Convert(VarChar,T2.WhsCode)) As ''Key''
+	From OIQR T1 
+	Join IQR1 T2 On T1.DocEntry=T2.DocEntry 
+	Where T1.DocEntry = @DocEntry
+
+	select Distinct (Convert(VarChar,T3.ItemCode)+Convert(VarChar,T3.WhsCode)) As ''Key''
+	From OIQR T1 Join IQR1 T2 On T1.DocEntry=T2.DocEntry Join OIBT T3 On T2.ItemCode = T3.ItemCode 
+	and T2.WhsCode = T3.WhsCode
+	--and T3.BaseEntry = T1.DocEntry 
+	where T1.DocEntry=@DocEntry 
+	--And T3.BaseType =10000071
+
+	select T3.BatchNum, ISNULL(T2.InvntryUom,'' '') As ''unitMsr'', CONVERT(VARCHAR(8),T1.DocDate,112) As ''ExpDate'', 
+	Convert(Decimal(18,2),T3.Quantity) AS ''BQuantity'',(Convert(VarChar,T3.ItemCode)+Convert(VarChar,T3.WhsCode)) As ''Key''
+	From OIQR T1 Join IQR1 T2 On T1.DocEntry = T2.DocEntry Join OIBT T3 On T2.ItemCode = T3.ItemCode 
+	and T2.WhsCode = T3.WhsCode 
+	--Join OBTN T4 on T4.DistNumber = T3.BatchNum  
+	Where T1.DocEntry = @DocEntry and T3.Quantity > 0
+     
+END				 
+							
+		' 
+END
+
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[GRPO]') AND type in (N'P', N'PC'))
+BEGIN
+EXEC dbo.sp_executesql @statement = N'
+
+Create PROCEDURE [GRPO] 
+    @DocEntry int
+AS    
+BEGIN
+	 
+    SET NOCOUNT ON;
+    Select ''GRPO'' As Type, T1.DocNum, CONVERT(VARCHAR(8),T1.DocDate,112) As ''DocDate'', T1.DocEntry  From OPDN T1 Where T1.DocEntry =@DocEntry
+
+    Select T1.DocEntry From OPDN T1 Where T1.DocEntry =@DocEntry
+
+    Select Distinct T1.DocEntry, T2.ItemCode, T2.Dscription, T2.unitMsr, Convert(Decimal(18,2),T2.InvQty) As ''Quantity'', T2.WhsCode,T2.LineNum From OPDN T1 
+    Join PDN1 T2 On T1.DocEntry=T2.DocEntry Where T1.DocEntry =@DocEntry
+    
+	select Distinct T3.BaseEntry AS DocEntry, T2.LineNum AS LineNum, (Convert(VarChar,T3.BaseEntry)+Convert(VarChar,T3.BaseLinNum)) AS [Key] 
+     From OPDN T1 Join PDN1 T2 On T1.DocEntry=T2.DocEntry Join IBT1 T3 On T2.ItemCode=T3.ItemCode 
+     and T2.WhsCode=T3.WhsCode and T1.DocDate=T3.DocDate      
+     and T3.BaseEntry=T1.DocEntry 
+     and T2.LineNum = T3.BaseLinNum
+     where T1.DocEntry=@DocEntry and T3.BaseType=20   
+     --T3.BaseEntry AS DocEntry, T3.BaseLinNum AS LineNum
+
+    select Distinct T3.BatchNum, T2.unitMsr, CONVERT(VARCHAR(8),T4.ExpDate,112) As ''ExpDate'', Convert(Decimal(18,2),T3.Quantity) AS ''BQuantity''
+    ,(Convert(VarChar,T3.BaseEntry)+Convert(VarChar,T3.BaseLinNum)) AS [Key]
+     From OPDN T1 Join PDN1 T2 On T1.DocEntry=T2.DocEntry Join IBT1 T3 On T2.ItemCode=T3.ItemCode and T2.WhsCode=T3.WhsCode    
+     and T3.BaseEntry=T1.DocEntry 
+     and T2.LineNum = T3.BaseLinNum
+     Join OBTN T4 on T4.DistNumber=T3.BatchNum  And T3.ItemCode= T4.ItemCode where T1.DocEntry = @DocEntry and T3.BaseType=20 
+END				 
+							
+				' 
+END
+
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[GR]') AND type in (N'P', N'PC'))
+BEGIN
+EXEC dbo.sp_executesql @statement = N'Create PROCEDURE [GR] 
+    @DocEntry int
+AS    
+BEGIN
+	 
+    SET NOCOUNT ON;
+    Select ''GR'' As Type, T1.DocNum, CONVERT(VARCHAR(8),T1.DocDate,112) As ''DocDate'', T1.DocEntry  From ORPD T1 Where T1.DocEntry =@DocEntry
+
+    Select T1.DocEntry From ORPD T1 Where T1.DocEntry =@DocEntry
+
+    Select Distinct T1.DocEntry, T2.ItemCode, T2.Dscription, T2.unitMsr, Convert(Decimal(18,2),T2.InvQty) As ''Quantity'', T2.WhsCode,T2.LineNum From ORPD T1 
+    Join RPD1 T2 On T1.DocEntry=T2.DocEntry Where T1.DocEntry =@DocEntry
+    
+    select Distinct T3.BaseEntry AS DocEntry, T2.LineNum AS LineNum, (Convert(VarChar,T3.BaseEntry)+Convert(VarChar,T3.BaseLinNum)) AS [Key] 
+     From ORPD T1 Join RPD1 T2 On T1.DocEntry=T2.DocEntry Join IBT1 T3 On T2.ItemCode=T3.ItemCode 
+     and T2.WhsCode=T3.WhsCode and T1.DocDate=T3.DocDate      
+     and T3.BaseEntry=T1.DocEntry 
+     and T2.LineNum = T3.BaseLinNum
+     where T1.DocEntry=@DocEntry and T3.BaseType=21  
+     
+    select Distinct T3.BatchNum, T2.unitMsr, CONVERT(VARCHAR(8),T4.ExpDate,112) As ''ExpDate'', Convert(Decimal(18,2),T3.Quantity) AS ''BQuantity''
+    ,(Convert(VarChar,T3.BaseEntry)+Convert(VarChar,T3.BaseLinNum)) AS [Key]
+     From ORPD T1 Join RPD1 T2 On T1.DocEntry=T2.DocEntry Join IBT1 T3 On T2.ItemCode=T3.ItemCode 
+     and T2.WhsCode=T3.WhsCode and T1.DocDate=T3.DocDate     
+     and T3.BaseEntry=T1.DocEntry 
+     and T2.LineNum = T3.BaseLinNum
+     Join OBTN T4 on T4.ItemCode =T3.ItemCode  and T4.DistNumber=T3.BatchNum where T1.DocEntry=@DocEntry and T3.BaseType=21
+END		' 
+END
+
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[APCreditMemo]') AND type in (N'P', N'PC'))
+BEGIN
+EXEC dbo.sp_executesql @statement = N'Create PROCEDURE [APCreditMemo] 
+    @DocEntry int
+AS    
+BEGIN
+	 
+    SET NOCOUNT ON;
+    Select ''APCreditMemo'' As Type, T1.DocNum, CONVERT(VARCHAR(8),T1.DocDate,112) As ''DocDate'', T1.DocEntry  From ORPC T1 Where T1.DocEntry =@DocEntry
+
+    Select T1.DocEntry From ORPC T1 Where T1.DocEntry =@DocEntry
+
+    Select Distinct T1.DocEntry, T2.ItemCode, T2.Dscription, T2.unitMsr, Convert(Decimal(18,2),T2.InvQty) As ''Quantity'', T2.WhsCode,T2.LineNum From ORPC T1 
+    Join RPC1 T2 On T1.DocEntry=T2.DocEntry Where T1.DocEntry =@DocEntry
+     select Distinct T3.BaseEntry AS DocEntry, T2.LineNum AS LineNum, (Convert(VarChar,T3.BaseEntry)+Convert(VarChar,T3.BaseLinNum)) AS [Key] 
+     From ORPC T1 Join RPC1 T2 On T1.DocEntry=T2.DocEntry Join IBT1 T3 On T2.ItemCode=T3.ItemCode 
+     and T2.WhsCode=T3.WhsCode and T1.DocDate=T3.DocDate      
+     and T3.BaseEntry=T1.DocEntry 
+     and T2.LineNum = T3.BaseLinNum
+     where T1.DocEntry=@DocEntry and T3.BaseType=19   
+
+     --T3.BaseEntry AS DocEntry, T3.BaseLinNum AS LineNum
+    select Distinct T3.BatchNum, T2.unitMsr, CONVERT(VARCHAR(8),T4.ExpDate,112) As ''ExpDate'', Convert(Decimal(18,2),T3.Quantity) AS ''BQuantity''
+    ,(Convert(VarChar,T3.BaseEntry)+Convert(VarChar,T3.BaseLinNum)) AS [Key]
+     From ORPC T1 Join RPC1 T2 On T1.DocEntry=T2.DocEntry Join IBT1 T3 On T2.ItemCode=T3.ItemCode and T2.WhsCode=T3.WhsCode and T1.DocDate=T3.DocDate     
+     and T3.BaseEntry=T1.DocEntry 
+     and T2.LineNum = T3.BaseLinNum
+     Join OBTN T4 on T4.DistNumber=T3.BatchNum where T1.DocEntry=@DocEntry and T3.BaseType=19 
+
+END				 
+							
+										
+
+
+
+' 
+END

@@ -1,0 +1,307 @@
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\BarCodeGeneration.Resources.resources
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\bin\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\bin\Debug\BarCodeGeneration.pdb
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\bin\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\BarCodeGeneration.pdb
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\obj\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\obj\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\obj\Debug\BarCodeGeneration.pdb
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\bin\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\bin\Debug\BarCodeGeneration.pdb
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\bin\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\obj\Debug\BarCodeGeneration.Resources.resources
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\BarCode Generation\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\obj\Debug\Interop.SAPbobsCOM.dll
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\obj\Debug\Interop.SAPbouiCOM.dll
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\obj\Debug\Interop.Scripting.dll
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\obj\Debug\BarCodeGeneration.exe
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\obj\Debug\BarCodeGeneration.xml
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\obj\Debug\BarCodeGeneration.pdb
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\bin\Debug\BarCodeGeneration.exe
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\bin\Debug\BarCodeGeneration.pdb
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\bin\Debug\BarCodeGeneration.xml
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\bin\Debug\Interop.SAPbobsCOM.dll
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\bin\Debug\Interop.SAPbouiCOM.dll
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\bin\Debug\Interop.Scripting.dll
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\obj\Debug\BarCodeGeneration.Resources.resources
+E:\Projects\AddOn\Other Work\20150415_BarCode Generation\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\20150416_BarCode Generation\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\20150416_BarCode Generation\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\20150416_BarCode Generation\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\20150416_BarCode Generation\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\20150416_BarCode Generation\obj\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\20150416_BarCode Generation\obj\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\20150416_BarCode Generation\obj\Debug\BarCodeGeneration.pdb
+C:\Procons\Test\20150416_BarCode Generation\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Procons\Test\20150416_BarCode Generation\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Procons\Test\20150416_BarCode Generation\obj\Debug\Interop.Scripting.dll
+C:\Procons\Test\20150416_BarCode Generation\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+C:\Procons\Test\20150416_BarCode Generation\obj\Debug\BarCodeGeneration.exe
+C:\Procons\Test\20150416_BarCode Generation\obj\Debug\BarCodeGeneration.xml
+C:\Procons\Test\20150416_BarCode Generation\obj\Debug\BarCodeGeneration.pdb
+C:\Procons\Test\20150416_BarCode Generation\bin\Debug\BarCodeGeneration.exe
+C:\Procons\Test\20150416_BarCode Generation\bin\Debug\BarCodeGeneration.pdb
+C:\Procons\Test\20150416_BarCode Generation\bin\Debug\BarCodeGeneration.xml
+C:\Procons\Test\20150416_BarCode Generation\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Procons\Test\20150416_BarCode Generation\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Procons\Test\20150416_BarCode Generation\bin\Debug\Interop.Scripting.dll
+C:\Procons\Test\20150416_BarCode Generation\obj\Debug\BarCodeGeneration.Resources.resources
+C:\Procons\Test\20150416_BarCode Generation\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+C:\Procons\Test\20150416_BarCode Generation_HANA\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Procons\Test\20150416_BarCode Generation_HANA\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Procons\Test\20150416_BarCode Generation_HANA\obj\Debug\Interop.Scripting.dll
+C:\Procons\Test\20150416_BarCode Generation_HANA\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+C:\Procons\Test\20150416_BarCode Generation_HANA\obj\Debug\BarCodeGeneration.xml
+C:\Procons\Test\20150416_BarCode Generation_HANA\obj\Debug\BarCodeGeneration.pdb
+C:\Procons\Test\20150416_BarCode Generation_HANA\bin\Debug\BarCodeGeneration.exe
+C:\Procons\Test\20150416_BarCode Generation_HANA\bin\Debug\BarCodeGeneration.pdb
+C:\Procons\Test\20150416_BarCode Generation_HANA\bin\Debug\BarCodeGeneration.xml
+C:\Procons\Test\20150416_BarCode Generation_HANA\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Procons\Test\20150416_BarCode Generation_HANA\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Procons\Test\20150416_BarCode Generation_HANA\bin\Debug\Interop.Scripting.dll
+C:\Procons\Test\20150416_BarCode Generation_HANA\obj\Debug\BarCodeGeneration.Resources.resources
+C:\Procons\Test\20150416_BarCode Generation_HANA\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+C:\Procons\Test\20150416_BarCode Generation_HANA\obj\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\obj\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\obj\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\obj\Debug\BarCodeGeneration.pdb
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\bin\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\bin\Debug\BarCodeGeneration.pdb
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\bin\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\obj\Debug\BarCodeGeneration.Resources.resources
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\obj\Debug\BarCode Generation.vbprojResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\HANA Version\Delivery_Hana\20150427_BarCode Generation HANA 1.0.1\20150427_BarCode Generation_HANA\obj\Debug\BarCodeGeneration.frmReportViewer.resources
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\obj\Debug\Interop.Scripting.dll
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\obj\Debug\BarCodeGeneration.xml
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\obj\Debug\BarCodeGeneration.pdb
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\bin\Debug\BarCodeGeneration.exe
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\bin\Debug\BarCodeGeneration.pdb
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\bin\Debug\BarCodeGeneration.xml
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\bin\Debug\Interop.Scripting.dll
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\obj\Debug\BarCode Generation.vbprojResolveAssemblyReference.cache
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\obj\Debug\BarCodeGeneration.frmReportViewer.resources
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\obj\Debug\BarCodeGeneration.Resources.resources
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+C:\Procons\HRMS\20150427_BarCode Generation_HANA\20150427_BarCode Generation_HANA\obj\Debug\BarCodeGeneration.exe
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\obj\Debug\Interop.Scripting.dll
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\obj\Debug\BarCodeGeneration.exe
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\obj\Debug\BarCodeGeneration.xml
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\obj\Debug\BarCodeGeneration.pdb
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\bin\Debug\BarCodeGeneration.exe
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\bin\Debug\BarCodeGeneration.pdb
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\bin\Debug\BarCodeGeneration.xml
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\bin\Debug\Interop.Scripting.dll
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\obj\Debug\BarCode Generation.vbprojResolveAssemblyReference.cache
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\obj\Debug\BarCodeGeneration.frmReportViewer.resources
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\obj\Debug\BarCodeGeneration.Resources.resources
+C:\Procons\HRMS\20150427_BarCode Generation_HANA_1.0.2\20150427_BarCode Generation_HANA_1.0.2\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\obj\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\obj\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\obj\Debug\BarCodeGeneration.pdb
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\bin\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\bin\Debug\BarCodeGeneration.pdb
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\bin\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\obj\Debug\BarCode Generation.vbprojResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\obj\Debug\BarCodeGeneration.frmReportViewer.resources
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\obj\Debug\BarCodeGeneration.Resources.resources
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150428_BarCode Generation_SQL_1.0.1\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.pdb
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\bin\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\bin\Debug\BarCodeGeneration.pdb
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\bin\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCode Generation.vbprojResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.frmReportViewer.resources
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.Resources.resources
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.exe
+E:\Projects\AddOn\Other Work\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\Interop.SAPbobsCOM.dll
+E:\Projects\AddOn\Other Work\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\Interop.SAPbouiCOM.dll
+E:\Projects\AddOn\Other Work\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\Interop.Scripting.dll
+E:\Projects\AddOn\Other Work\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+E:\Projects\AddOn\Other Work\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.exe
+E:\Projects\AddOn\Other Work\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.xml
+E:\Projects\AddOn\Other Work\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.pdb
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\Interop.Scripting.dll
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.exe
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.xml
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.pdb
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\bin\Debug\BarCodeGeneration.exe
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\bin\Debug\BarCodeGeneration.pdb
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\bin\Debug\BarCodeGeneration.xml
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\bin\Debug\Interop.Scripting.dll
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCode Generation.vbprojResolveAssemblyReference.cache
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.frmReportViewer.resources
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.Resources.resources
+C:\Procons\Addons\20150507_BarCode Generation_SQL_1.0.2\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\obj\Debug\Interop.Scripting.dll
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.exe
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.xml
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.pdb
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\bin\Debug\BarCodeGeneration.exe
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\bin\Debug\BarCodeGeneration.pdb
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\bin\Debug\BarCodeGeneration.xml
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\bin\Debug\Interop.Scripting.dll
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\obj\Debug\BarCode Generation.vbprojResolveAssemblyReference.cache
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.frmReportViewer.resources
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\obj\Debug\BarCodeGeneration.Resources.resources
+C:\Procons\Addons\20150522_BarCode Generation_SQL_1.0.2\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\obj\Debug\Interop.SAPbobsCOM.dll
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\obj\Debug\Interop.SAPbouiCOM.dll
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\obj\Debug\Interop.Scripting.dll
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\obj\Debug\BarCodeGeneration.exe
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\obj\Debug\BarCodeGeneration.xml
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\obj\Debug\BarCodeGeneration.pdb
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\bin\Debug\BarCodeGeneration.exe
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\bin\Debug\BarCodeGeneration.pdb
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\bin\Debug\BarCodeGeneration.xml
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\bin\Debug\Interop.SAPbobsCOM.dll
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\bin\Debug\Interop.SAPbouiCOM.dll
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\bin\Debug\Interop.Scripting.dll
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\obj\Debug\BarCode Generation.vbprojResolveAssemblyReference.cache
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\obj\Debug\BarCodeGeneration.frmReportViewer.resources
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\obj\Debug\BarCodeGeneration.Resources.resources
+C:\SEIDOR\BarCode Generation_HANA_1.0.3\BarCode Generation_HANA_1.0.3\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.3\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.3\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.3\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.3\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.3\obj\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.3\obj\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.3\obj\Debug\BarCodeGeneration.pdb
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\obj\Debug\Interop.SAPbobsCOM.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\obj\Debug\Interop.SAPbouiCOM.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\obj\Debug\Interop.Scripting.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\obj\Debug\BarCodeGeneration.exe
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\obj\Debug\BarCodeGeneration.xml
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\obj\Debug\BarCodeGeneration.pdb
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\bin\Debug\BarCodeGeneration.exe
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\bin\Debug\BarCodeGeneration.pdb
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\bin\Debug\BarCodeGeneration.xml
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\bin\Debug\Interop.SAPbobsCOM.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\bin\Debug\Interop.SAPbouiCOM.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\bin\Debug\Interop.Scripting.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\obj\Debug\BarCode Generation.vbprojResolveAssemblyReference.cache
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\obj\Debug\BarCodeGeneration.frmReportViewer.resources
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\obj\Debug\BarCodeGeneration.Resources.resources
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\obj\Debug\Interop.SAPbobsCOM.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\obj\Debug\Interop.SAPbouiCOM.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\obj\Debug\Interop.Scripting.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\obj\Debug\BarCodeGeneration.exe
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\obj\Debug\BarCodeGeneration.xml
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\obj\Debug\BarCodeGeneration.pdb
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\bin\Debug\BarCodeGeneration.exe
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\bin\Debug\BarCodeGeneration.pdb
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\bin\Debug\BarCodeGeneration.xml
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\bin\Debug\Interop.SAPbobsCOM.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\bin\Debug\Interop.SAPbouiCOM.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\bin\Debug\Interop.Scripting.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\obj\Debug\BarCode Generation.vbprojResolveAssemblyReference.cache
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\obj\Debug\BarCodeGeneration.frmReportViewer.resources
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\obj\Debug\BarCodeGeneration.Resources.resources
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.4_1\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\obj\Debug\Interop.SAPbobsCOM.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\obj\Debug\Interop.SAPbouiCOM.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\obj\Debug\Interop.Scripting.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\obj\Debug\BarCodeGeneration.xml
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\obj\Debug\BarCodeGeneration.pdb
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\bin\Debug\BarCodeGeneration.exe
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\bin\Debug\BarCodeGeneration.pdb
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\bin\Debug\BarCodeGeneration.xml
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\bin\Debug\Interop.SAPbobsCOM.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\bin\Debug\Interop.SAPbouiCOM.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\bin\Debug\Interop.Scripting.dll
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\obj\Debug\BarCode Generation.vbprojResolveAssemblyReference.cache
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\obj\Debug\BarCodeGeneration.frmReportViewer.resources
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\obj\Debug\BarCodeGeneration.Resources.resources
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+C:\SEIDOR\BarcodeSourc\BarCode Generation_HANA_1.0.5\obj\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\obj\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\obj\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\obj\Debug\BarCodeGeneration.pdb
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\bin\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\bin\Debug\BarCodeGeneration.pdb
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\bin\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\obj\Debug\BarCode Generation.vbprojResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\obj\Debug\BarCodeGeneration.frmReportViewer.resources
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\obj\Debug\BarCodeGeneration.Resources.resources
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Barcode Generation\HANA Version\BarCode Generation_HANA_1.0.6\obj\Debug\BarCode Generation.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Invoice\Import Invoices\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Invoice\Import Invoices\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Invoice\Import Invoices\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Invoice\Import Invoices\obj\Debug\BarCode Generation.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Invoice\Import Invoices\obj\Debug\BarCodeGeneration.exe
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Invoice\Import Invoices\obj\Debug\BarCodeGeneration.xml
+G:\International Projects_SAP9.0\Other Customers\Gerorge_Seidor\Import Invoice\Import Invoices\obj\Debug\BarCodeGeneration.pdb

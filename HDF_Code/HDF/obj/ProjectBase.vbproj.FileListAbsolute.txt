@@ -1,0 +1,19 @@
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\obj\Debug\ResolveAssemblyReference.cache
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\obj\Debug\Interop.SAPbobsCOM.dll
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\obj\Debug\Interop.SAPbouiCOM.dll
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\obj\Debug\ProjectBase.vbproj.ResolveComReference.cache
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\obj\Debug\ProjectBase.Resources.resources
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\obj\Debug\ProjectBase.vbproj.GenerateResource.Cache
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\bin\Debug\ProjectBase.exe
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\bin\Debug\ProjectBase.pdb
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\bin\Debug\ProjectBase.xml
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\bin\Debug\Interop.SAPbobsCOM.dll
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\bin\Debug\Interop.SAPbouiCOM.dll
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\bin\Debug\Interop.Scripting.dll
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\obj\Debug\Interop.Scripting.dll
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\obj\Debug\ProjectBase.exe
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\obj\Debug\ProjectBase.xml
+F:\SAP B1\ProjectTemplate\ProjectBase\ProjectBase\obj\Debug\ProjectBase.pdb
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\obj\Debug\ProjectBase.exe
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\obj\Debug\ProjectBase.xml
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\obj\Debug\ProjectBase.pdb

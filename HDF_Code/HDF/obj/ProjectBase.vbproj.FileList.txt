@@ -1,0 +1,3 @@
+obj\Debug\ProjectBase.exe
+obj\Debug\ProjectBase.xml
+obj\Debug\ProjectBase.pdb

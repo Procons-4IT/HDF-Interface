@@ -1,0 +1,39 @@
+D:\Project\procons4it\SAS\LOC\LOC\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\SAS\LOC\LOC\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\SAS\LOC\LOC\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\SAS\LOC\LOC\obj\Debug\LOC.vbproj.ResolveComReference.cache
+D:\Project\procons4it\SAS\LOC\LOC\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\SAS\LOC\LOC\obj\Debug\ResGen.read.1.tlog
+D:\Project\procons4it\SAS\LOC\LOC\obj\Debug\ResGen.write.1.tlog
+D:\Project\procons4it\SAS\LOC\LOC\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\SAS\LOC\LOC\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\SAS\LOC\LOC\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\SAS\LOC\LOC\obj\Debug\LOC.Resources.resources
+D:\Project\procons4it\SAS\LOC\LOC\bin\Debug\LOC.exe
+D:\Project\procons4it\SAS\LOC\LOC\bin\Debug\LOC.pdb
+D:\Project\procons4it\SAS\LOC\LOC\bin\Debug\LOC.xml
+D:\Project\procons4it\SAS\LOC\LOC\obj\Debug\LOC.exe
+D:\Project\procons4it\SAS\LOC\LOC\obj\Debug\LOC.xml
+D:\Project\procons4it\SAS\LOC\LOC\obj\Debug\LOC.pdb
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\obj\Debug\LOC.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\obj\Debug\LOC.exe
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\obj\Debug\LOC.xml
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\obj\Debug\LOC.pdb
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\bin\Debug\LOC.exe
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\bin\Debug\LOC.pdb
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\bin\Debug\LOC.xml
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\obj\Debug\LOC.Resources.resources
+G:\International Projects_SAP9.0\Gerorge_Seidor\LOC\LOC\obj\Debug\LOC.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\LOC.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\LOC.exe
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\LOC.xml
+G:\International Projects_SAP9.0\Gerorge_Seidor\Barcode Generation\LOC\obj\Debug\LOC.pdb

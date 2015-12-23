@@ -1,0 +1,37 @@
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\obj\Debug\Batch Orders SO.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\obj\Debug\Batch Orders SO.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\bin\Debug\BatchOrders.exe
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\bin\Debug\BatchOrders.pdb
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\bin\Debug\BatchOrders.xml
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\obj\Debug\BatchOrders.Resources.resources
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\obj\Debug\BatchOrders.exe
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\obj\Debug\BatchOrders.xml
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\ProjectBase\obj\Debug\BatchOrders.pdb
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\BatchOrders\obj\Debug\BatchOrders.xml
+E:\InterNational Business Projects\Geroge\Databest_June2010\ProjectBase\BatchOrders\obj\Debug\BatchOrders.pdb
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\obj\Debug\BatchOrders.xml
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\obj\Debug\BatchOrders.pdb
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\bin\Debug\BatchOrders.exe
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\bin\Debug\BatchOrders.pdb
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\bin\Debug\BatchOrders.xml
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\obj\Debug\Batch Orders SO.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\obj\Debug\BatchOrders.Resources.resources
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\obj\Debug\Batch Orders SO.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Geroge\Databest_June2010\BatchOrders\BatchOrders\obj\Debug\BatchOrders.exe
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\obj\Debug\BatchOrders.exe
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\obj\Debug\BatchOrders.xml
+E:\InterNational Business Projects\Geroge\DataBest_July2010\Incoming Payment\obj\Debug\BatchOrders.pdb

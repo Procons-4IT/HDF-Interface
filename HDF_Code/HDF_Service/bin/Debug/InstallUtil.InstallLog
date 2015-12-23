@@ -1,0 +1,1458 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\SKS\HRCosting\BusOn_EService\bin\Debug\BusOn_EService.exe assembly's progress.
+The file is located at D:\Project\SKS\HRCosting\BusOn_EService\bin\Debug\BusOn_EService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\SKS\HRCosting\BusOn_EService\bin\Debug\BusOn_EService.exe assembly's progress.
+The file is located at D:\Project\SKS\HRCosting\BusOn_EService\bin\Debug\BusOn_EService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\SKS\HRCosting\BusOn_EService\bin\Debug\BusOn_EService.exe assembly's progress.
+The file is located at D:\Project\SKS\HRCosting\BusOn_EService\bin\Debug\BusOn_EService.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.exe assembly's progress.
+The file is located at D:\Project\SKS\Service\Buson_Service\Buson_Service\bin\Debug\BusOn_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Buson_Service\Buson_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\Armada\Armada\Armada_Service\Armada_Service\bin\Debug\Armada_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.exe assembly's progress.
+The file is located at C:\Users\LENOVO\Desktop\HDF\HDF\HDF_Code\HDF_Service\bin\Debug\HDF_Service.InstallLog.
+
+The uninstall has completed.

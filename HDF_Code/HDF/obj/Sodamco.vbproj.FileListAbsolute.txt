@@ -1,0 +1,35 @@
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.exe
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.pdb
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\bin\Debug\MultiCurrencyPYMT.xml
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.Resources.resources
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.exe
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.xml
+D:\Project\procons4it\MultiCurrency Pymt\MultiCurrency Pymt\obj\Debug\MultiCurrencyPYMT.pdb
+D:\Project\procons4it\Sodamco\Sodamco\bin\Debug\Sodamco.exe
+D:\Project\procons4it\Sodamco\Sodamco\bin\Debug\Sodamco.pdb
+D:\Project\procons4it\Sodamco\Sodamco\bin\Debug\Sodamco.xml
+D:\Project\procons4it\Sodamco\Sodamco\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\Sodamco\Sodamco\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\Sodamco\Sodamco\bin\Debug\Interop.Scripting.dll
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Interop.Scripting.dll
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Sodamco.vbproj.ResolveComReference.cache
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Sodamco.Resources.resources
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Sodamco.vbproj.GenerateResource.Cache
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Sodamco.exe
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Sodamco.xml
+D:\Project\procons4it\Sodamco\Sodamco\obj\Debug\Sodamco.pdb
+D:\Project\procons4it\Caparol\Caparol\obj\Debug\Sodamco.exe
+D:\Project\procons4it\Caparol\Caparol\obj\Debug\Sodamco.xml
+D:\Project\procons4it\Caparol\Caparol\obj\Debug\Sodamco.pdb
